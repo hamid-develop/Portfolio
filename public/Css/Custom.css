@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topnav-container {
+  background-color: #dee2e6;
+}
+
+.home,
+.about,
+.projects,
+.resume {
+  margin-top: 70px;
+  color: #008cff;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+}
+
+.hamidreza::after {
+  content: "A.";
+  color: black;
+  font-size: 50px;
+}
+
+.social {
+  list-style-type: none;
+}
